@@ -1,0 +1,1 @@
+Worked examples and exercises from the book Algorithms - Jeff Erickson
