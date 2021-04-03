@@ -10,12 +10,8 @@ to T, your algorithm should return -1
 from typing import List
 
 
-
-
-
 def MaxWeightSubsetSum(X, W, T):
     return solve(X, W, T, len(X)-1, 0)
-
 
 
 def solve(X, W, T, index, weight):
